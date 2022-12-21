@@ -1,0 +1,181 @@
+header {
+    display: block;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    width: 100%;
+    white-space: nowrap;
+  }
+  .header-links {
+    color: black;
+  }
+  .header-left {
+    opacity: 0.8;
+    float: left;
+  }
+  .header-right {
+    float: right;
+    margin-right: 25px;
+  }
+  a:-webkit-any-link {
+    cursor: pointer;
+  }
+  nav {
+    display: block;
+  }
+  nav a {
+    text-decoration: none;
+    margin-left: 0.75em;
+    margin-right: 0.75em;
+    font-size: 13px;
+  }
+  #appicon {
+    vertical-align: middle;
+    opacity: 0.5;
+  }
+  #sign-in-btn {
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    box-shadow: white;
+    cursor: pointer;
+  }
+  #sign-in-btn {
+    color: white;
+    background-color: #4285f4;
+    border: none;
+    height: 30px;
+    width: 70px;
+    font-weight: bold;
+    border-radius: 2px;
+  }
+  button {
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
+    display: inline-block;
+    text-shadow: none;
+    text-indent: 0px;
+    text-rendering: auto;
+    appearance: auto;
+    writing-mode: horizontal-tb;
+  }
+  #google {
+    height: 95px;
+    width: 272px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+  }
+  .searchbar {
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 60px;
+  }
+  div {
+    display: block;
+  }
+  #search {
+    font-size: 16px;
+    height: 38px;
+    width: 460px;
+    border-radius: 25px;
+    padding: 3px;
+    border: 1px solid lightgrey;
+    padding-left: 50px;
+  }
+  input {
+    writing-mode: horizontal-tb;
+    text-rendering: auto;
+    display: inline-block;
+    cursor: text;
+  }
+  #microphone {
+    position: relative;
+    top: 5px;
+    right: 74px;
+    height: 20px;
+  }
+  #mag {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 10px;
+    right: 495px;
+  }
+  a:hover {
+    position: static;
+    top: 5px;
+    right: 74px;
+    height: 20px;
+  }
+  .searchbar {
+    text-align: center;
+  }
+  .btn-container {
+    text-align: center;
+    padding-top: 30px;
+  }
+  div {
+    display: block;
+  }
+  #buton1 {
+    background-color: #f8f9fa;
+    border: #f8f9fa;
+    height: 36px;
+    width: 120px;
+    border-radius: 4px;
+    color: #3c4043;
+    margin-right: 8px;
+    cursor: pointer;
+  }
+  
+  #buton2 {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    height: 36px;
+    width: 210px;
+    border-radius: 4px;
+    color: #3c4043;
+    margin: 11px 4px;
+    padding: 0 16px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  #language {
+    text-align: center;
+    margin-top: 20px;
+    font-size: small;
+  }
+  footer {
+    width: 100%;
+    padding-left: 5px;
+    background-color: #f2f2f2;
+    line-height: 40px;
+    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+    display: block;
+  }
+  .footer-right {
+    float: right;
+    margin-right: 25px;
+  }
+  .footer-links {
+    color: #5f6368;
+  }
+  .ülke {
+    border-bottom: 1px solid #e4e4e4;
+    margin-left: 13px;
+    color: #5f6368;
+  }
